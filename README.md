@@ -468,7 +468,7 @@ MIT License - See LICENSE file for details
 
 For issues, questions, or suggestions:
 - Open an issue on GitHub
-- Email: support@example.com
+- Email: Mohamedfathy7@hotmail.com
 - Check discussions for Q&A
 
 ## 🔄 Changelog
